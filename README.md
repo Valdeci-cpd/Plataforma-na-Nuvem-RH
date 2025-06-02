@@ -1,4 +1,4 @@
-# Docunentação
+# Documentação
 Nome da Plataforma: Desenvolve RH, Alcance RH.
 ## 1. Visão Geral:
 Uma ferramenta que viabiliza os processos de uma rotina diária de RH. 
