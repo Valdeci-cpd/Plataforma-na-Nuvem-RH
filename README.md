@@ -14,16 +14,53 @@ Otimização de espaço, tempo, agilidade e precisão. Tudo em um só lugar.
 
 _Em Desenvolvimento..._
 
-## 4. Arquitetura do Sistema:
+## 4. Estrutura do Projeto:
 
-Frontend:
+**Backend (Java/Springboot):**
 
-Backend:
+    system-RH/
+    ├── src/
+    │   └── main/
+    │       ├── java/
+    │       │   └── com/
+    │       │       └── empresa/
+    │       │           └── rhsystem/
+    │       │               ├── config/
+    │       │               ├── controller/
+    │       │               ├── dto/
+    │       │               ├── exception/
+    │       │               ├── model/
+    │       │               ├── repository/
+    │       │               ├── service/
+    │       │               └── RhSystemApplication.java
+    │       └── resources/
+    │           ├── static/
+    │           │   ├── css/
+    │           │   └── pages/
+    │           │       ├── login.html
+    │           │       ├── dashboard.html
+    │           │       └── funcionarios.html
+    │           ├── templates/ (caso use Thymeleaf futuramente)
+    │           ├── application.properties
+    │           └── data.sql / schema.sql (opcional para dados iniciais)
+    ├── pom.xml
+    └── README.md
+    
+**Front-end (HTML/CSS):**
 
-Banco de Dados:
+    src/main/resources/static/
+    ├── css/
+    │   └── styles.css
+    ├── pages/
+    │   ├── login.html
+    │   ├── dashboard.html
+    │   └── funcionarios.html
 
-Infraestrutura na Nuvem:
+**Hospedagem Local:**
 
+Ubuntu Server 24.04.2
+
+Acesso via: [http://localhost:5000](http://192.168.1.234:5000)
 ## 5. Segurança e LGPD:
 
 ## 6. Integrações:
