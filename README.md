@@ -16,7 +16,7 @@ _Em Desenvolvimento..._
 
 ## 4. Estrutura do Projeto:
 
-**Backend (Java/Springboot):**
+**`Backend (Java/Springboot):`**
 
     system-RH/
     ├── src/
@@ -45,8 +45,8 @@ _Em Desenvolvimento..._
     │           └── data.sql / schema.sql (opcional para dados iniciais)
     ├── pom.xml
     └── README.md
-    
-**Front-end (HTML/CSS):**
+
+**`Front-end (HTML/CSS):`**
 
     src/main/resources/static/
     ├── css/
@@ -56,7 +56,7 @@ _Em Desenvolvimento..._
     │   ├── dashboard.html
     │   └── funcionarios.html
 
-**Hospedagem Local:**
+**`Hospedagem Local:`**
 
 Ubuntu Server 24.04.2
 
