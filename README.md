@@ -1,71 +1,40 @@
 # Documentação
-Nome da Plataforma: Desenvolve RH, Alcance RH.
-## 1. Visão Geral:
-Uma ferramenta que viabiliza os processos de uma rotina diária de RH. 
-Desde a contratação até a demissão do colaborador, cuidando de digitalizar e sistematizar tudo em uma plataforma online na nuvem.
+
+## 1. Visão Geral
+
+**Nome da Plataforma:** Desenvolve RH, Alcance RH.
+
+É uma ferramenta que viabiliza os processos de uma rotina diária de RH. Desde a contratação até a demissão do colaborador.
+
+Cuidando de digitalizar e sistematizar tudo em uma plataforma online na nuvem.
 
 O sistema centraliza informações de colaboradores, automatiza rotinas de RH e fornece ferramentas para tomada de decisões.
 
-## 2. Objetivos:
+## 1.1. Objetivos:
 
 Otimização de espaço, tempo, agilidade e precisão. Tudo em um só lugar.
 
-## 3. Funcionalidades Principais:
+## 1.2. Principais Funcionalidades:
 
 _Em Desenvolvimento..._
 
-## 4. Estrutura do Projeto:
+## 1.3. MVP(Produto minimo viavel):
 
-**`Backend (Java/Springboot):`**
+https://ibb.co/KjZk01gz
 
-    system-RH/
-    ├── src/
-    │   └── main/
-    │       ├── java/
-    │       │   └── com/
-    │       │       └── empresa/
-    │       │           └── rhsystem/
-    │       │               ├── config/
-    │       │               ├── controller/
-    │       │               ├── dto/
-    │       │               ├── exception/
-    │       │               ├── model/
-    │       │               ├── repository/
-    │       │               ├── service/
-    │       │               └── RhSystemApplication.java
-    │       └── resources/
-    │           ├── static/
-    │           │   ├── css/
-    │           │   └── pages/
-    │           │       ├── login.html
-    │           │       ├── dashboard.html
-    │           │       └── funcionarios.html
-    │           ├── templates/ (caso use Thymeleaf futuramente)
-    │           ├── application.properties
-    │           └── data.sql / schema.sql (opcional para dados iniciais)
-    ├── pom.xml
-    └── README.md
+## 2.0. Arquitetura Técnica
 
-**`Front-end (HTML/CSS):`**
+**`Diagrama de Alto nivel:`**
 
-    src/main/resources/static/
-    ├── css/
-    │   └── styles.css
-    ├── pages/
-    │   ├── login.html
-    │   ├── dashboard.html
-    │   └── funcionarios.html
-
-**`Hospedagem Local:`**
+**`Infra:`**
 
 Ubuntu Server 24.04.2
 
 Acesso via: [http://localhost:5000](http://192.168.1.234:5000)
-## 5. Segurança e LGPD:
 
-## 6. Integrações:
+## 3.0. Requisitos
 
-## 7. Usuários e Perfis de Acesso:
+## 3.1. Requisitos funcionais:
 
-Administrador: Acesso total ao sistema.
+## 3.2. Requisitos não funcionais (desempenho, segurança, disponibilidade):
 
