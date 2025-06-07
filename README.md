@@ -13,28 +13,3 @@ O sistema centraliza informações de colaboradores, automatiza rotinas de RH e 
 ## 1.1. Objetivos:
 
 Otimização de espaço, tempo, agilidade e precisão. Tudo em um só lugar.
-
-## 1.2. Principais Funcionalidades:
-
-_Em Desenvolvimento..._
-
-## 1.3. MVP(Produto minimo viavel):
-
-https://ibb.co/KjZk01gz
-
-## 2.0. Arquitetura Técnica
-
-**`Diagrama de Alto nivel:`**
-
-**`Infra:`**
-
-Ubuntu Server 24.04.2
-
-Acesso via: [http://localhost:5000](http://192.168.1.234:5000)
-
-## 3.0. Requisitos
-
-## 3.1. Requisitos funcionais:
-
-## 3.2. Requisitos não funcionais (desempenho, segurança, disponibilidade):
-
