@@ -1,6 +1,6 @@
 # Documentação
 
-## 1. Visão Geral
+## 1. Visão Geral:
 
 **Nome da Plataforma:** Desenvolve RH, Alcance RH.
 
@@ -10,6 +10,6 @@ Cuidando de digitalizar e sistematizar tudo em uma plataforma online na nuvem.
 
 O sistema centraliza informações de colaboradores, automatiza rotinas de RH e fornece ferramentas para tomada de decisões.
 
-## 1.1. Objetivos:
+## 1.1. Objetivo:
 
 Otimização de espaço, tempo, agilidade e precisão. Tudo em um só lugar.
